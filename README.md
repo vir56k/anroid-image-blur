@@ -8,6 +8,11 @@
 
 # 介绍
 把一个图片 进行虚化生成新的图片。
+原图：
+<img src="./app/src/main/assets/img1.png" width="80" height="80" />
+
+模糊后：
+![模糊后](device-2016-06-07-170244.png =80x89)
 
 # 引用类库的方法：
 
