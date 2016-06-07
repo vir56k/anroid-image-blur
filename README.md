@@ -8,9 +8,9 @@
 
 # 介绍
 把一个图片 进行虚化生成新的图片。
+
 原图：
 <img src="./app/src/main/assets/img1.png" width="160" height="284" />
-
 模糊后：
 <img src="./device-2016-06-07-170244.png" width="160" height="284" />
 
